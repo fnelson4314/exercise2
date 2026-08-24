@@ -146,7 +146,7 @@ function drawPixel(imagedata,x,y,color) {
     }
 } // end drawPixel
     
-
+ 
 /* main -- here is where execution begins after window load */
 
 function main() {
